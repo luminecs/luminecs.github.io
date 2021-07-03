@@ -1,1 +1,2 @@
+http://example.com/2021/07/03/java-8/
 http://example.com/2021/07/03/hello-world/

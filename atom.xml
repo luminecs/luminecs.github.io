@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>luminecs.github.io</title>
+  <link href="http://luminecs.github.io/"/>
+  <link type="application/atom+xml" rel="self" href="http://luminecs.github.io/atom.xml"/>
+  <updated>2023-09-06T07:12:48.059662Z</updated>
+  <id>http://luminecs.github.io/</id>
+  <author>
+    <name>luminecs</name>
+    <email>wangxuke.china@gmail.com</email>
+  </author>
+
+
+  <entry>
+    <id>http://luminecs.github.io/2023/09/06/my-first-post</id>
+    <link type="text/html" rel="alternate" href="http://luminecs.github.io/2023/09/06/my-first-post/"/>
+    <title>My First Post</title>
+    <published>2023-09-05T16:00:00.000Z</published>
+    <updated>2023-09-05T16:00:00.000Z</updated>
+    <author>
+      <name>luminecs</name>
+      <uri>http://luminecs.github.io/</uri>
+    </author>
+    <content type="html">&lt;p&gt;你好&lt;/p&gt;</content>
+  </entry>
+    
+
+</feed>

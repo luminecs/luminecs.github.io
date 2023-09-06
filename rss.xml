@@ -6,17 +6,23 @@
     <atom:link href="http://luminecs.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>Programming, life, etc.</description>
     <language>en-us</language>
-    <pubDate>Wed, 06 Sep 2023 07:45:07 GMT</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2023 07:45:07 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Sep 2023 09:19:43 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Sep 2023 09:19:43 GMT</lastBuildDate>
 
 
     <item>
-      <title>My First Post</title>
-      <link>http://luminecs.github.io/2023/09/06/my-first-post/</link>
+      <title>About Me</title>
+      <link>http://luminecs.github.io/2023/09/06/about-me/</link>
       <pubDate>Tue, 05 Sep 2023 16:00:00 GMT</pubDate>
       <author>wangxuke.china@gmail.com (luminecs)</author>
-      <guid>http://luminecs.github.io/2023/09/06/my-first-post</guid>
-      <description>&lt;p&gt;你好&lt;/p&gt;
+      <guid>http://luminecs.github.io/2023/09/06/about-me</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m luminecs, a programmer.&lt;/p&gt;
+
+&lt;p&gt;I really like writing code, and I have been writing &lt;code&gt;Java&lt;/code&gt; code for six years. I have also written some other languages, such as &lt;code&gt;JavaScript&lt;/code&gt;, &lt;code&gt;Dart&lt;/code&gt;, etc.&lt;/p&gt;
+
+&lt;p&gt;This website was established to record my thoughts, because I find that in-depth study is very necessary. Unfortunately, the past few years of my coding career have not been carefully documented, so much knowledge and thinking has been lost.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading.&lt;/p&gt;
 </description>
     </item>
 

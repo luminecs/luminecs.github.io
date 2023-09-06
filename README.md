@@ -1,1 +1,3 @@
-# luminecs.github.io
+# luminecs website
+
+Writing something.

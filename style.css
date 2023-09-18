@@ -201,7 +201,7 @@ article a:hover {
   color: hsl(200, 100%, 50%);
 }
 article p {
-  font: 17px/25px "PT Serif", Georgia, serif;
+  font: 18px/25px "PT Serif", Georgia, serif;
   padding: 8px 0;
   color: #222;
   letter-spacing: 0;
@@ -370,7 +370,7 @@ article table {
   color: #4d4c4c;
 }
 article table td {
-  font: 17px/25px "PT Serif", Georgia, serif;
+  font: 18px/25px "PT Serif", Georgia, serif;
   padding: 0 6px;
 }
 article table thead td {

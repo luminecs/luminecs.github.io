@@ -6,12 +6,38 @@
     <atom:link href="http://luminecs.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>Programming, life, etc.</description>
     <language>en-us</language>
-    <pubDate>Wed, 06 Sep 2023 09:19:43 GMT</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2023 09:19:43 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2023 12:20:08 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2023 12:20:08 GMT</lastBuildDate>
 
 
     <item>
-      <title>About Me</title>
+      <title>Flutter &#38; Dart Cheatsheet</title>
+      <link>http://luminecs.github.io/2023/09/10/flutter-dart-cheatsheet/</link>
+      <pubDate>Sat, 09 Sep 2023 16:00:00 GMT</pubDate>
+      <author>wangxuke.china@gmail.com (luminecs)</author>
+      <guid>http://luminecs.github.io/2023/09/10/flutter-dart-cheatsheet</guid>
+      <description>&lt;h2&gt;Command line&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter --version&lt;/strong&gt;: Check the version of Flutter and Dart.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter doctor&lt;/strong&gt;: Check Flutter development environment is okay.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter upgrade&lt;/strong&gt;: Upgrade Flutter and Dart SDK.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter create ./my_app --project-name my_app --empty&lt;/strong&gt;: Create a new Flutter project.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter pub add http&lt;/strong&gt;: Add http package to current project from &lt;a href=&quot;https://pub.dev&quot;&gt;pub.dev&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter pub get&lt;/strong&gt;: Get all dependencies of the current project from &lt;a href=&quot;https://pub.dev&quot;&gt;pub.dev&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter pub run build_runner build&lt;/strong&gt;: Run build_runner to generate some dart code.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter devices&lt;/strong&gt;: List connected devices that are available.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter emulators&lt;/strong&gt;: List connected emulators that are available.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter emulators --launch {emulator name}&lt;/strong&gt;: Launch a emulator.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter run -d {device name}&lt;/strong&gt;: Run app on selected device.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;q&lt;/strong&gt;: Close app.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter test&lt;/strong&gt;: Run the Flutter test.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+
+    <item>
+      <title>About Me | 关于我</title>
       <link>http://luminecs.github.io/2023/09/06/about-me/</link>
       <pubDate>Tue, 05 Sep 2023 16:00:00 GMT</pubDate>
       <author>wangxuke.china@gmail.com (luminecs)</author>

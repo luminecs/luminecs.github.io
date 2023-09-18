@@ -4,7 +4,7 @@
   <title>luminecs.github.io</title>
   <link href="http://luminecs.github.io/"/>
   <link type="application/atom+xml" rel="self" href="http://luminecs.github.io/atom.xml"/>
-  <updated>2023-09-06T09:19:43.349200Z</updated>
+  <updated>2023-09-18T12:20:08.990005Z</updated>
   <id>http://luminecs.github.io/</id>
   <author>
     <name>luminecs</name>
@@ -13,9 +13,38 @@
 
 
   <entry>
+    <id>http://luminecs.github.io/2023/09/10/flutter-dart-cheatsheet</id>
+    <link type="text/html" rel="alternate" href="http://luminecs.github.io/2023/09/10/flutter-dart-cheatsheet/"/>
+    <title>Flutter &#38; Dart Cheatsheet</title>
+    <published>2023-09-09T16:00:00.000Z</published>
+    <updated>2023-09-09T16:00:00.000Z</updated>
+    <author>
+      <name>luminecs</name>
+      <uri>http://luminecs.github.io/</uri>
+    </author>
+    <content type="html">&lt;h2&gt;Command line&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter --version&lt;/strong&gt;: Check the version of Flutter and Dart.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter doctor&lt;/strong&gt;: Check Flutter development environment is okay.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter upgrade&lt;/strong&gt;: Upgrade Flutter and Dart SDK.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter create ./my_app --project-name my_app --empty&lt;/strong&gt;: Create a new Flutter project.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter pub add http&lt;/strong&gt;: Add http package to current project from &lt;a href=&quot;https://pub.dev&quot;&gt;pub.dev&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter pub get&lt;/strong&gt;: Get all dependencies of the current project from &lt;a href=&quot;https://pub.dev&quot;&gt;pub.dev&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter pub run build_runner build&lt;/strong&gt;: Run build_runner to generate some dart code.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter devices&lt;/strong&gt;: List connected devices that are available.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter emulators&lt;/strong&gt;: List connected emulators that are available.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter emulators --launch {emulator name}&lt;/strong&gt;: Launch a emulator.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter run -d {device name}&lt;/strong&gt;: Run app on selected device.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;q&lt;/strong&gt;: Close app.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;flutter test&lt;/strong&gt;: Run the Flutter test.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+
+  <entry>
     <id>http://luminecs.github.io/2023/09/06/about-me</id>
     <link type="text/html" rel="alternate" href="http://luminecs.github.io/2023/09/06/about-me/"/>
-    <title>About Me</title>
+    <title>About Me | 关于我</title>
     <published>2023-09-05T16:00:00.000Z</published>
     <updated>2023-09-05T16:00:00.000Z</updated>
     <author>

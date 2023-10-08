@@ -6,9 +6,23 @@
     <atom:link href="http://luminecs.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>Programming, life, etc.</description>
     <language>en-us</language>
-    <pubDate>Mon, 18 Sep 2023 12:20:08 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2023 12:20:08 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Oct 2023 12:47:07 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2023 12:47:07 GMT</lastBuildDate>
 
+
+    <item>
+      <title>Reading Log</title>
+      <link>http://luminecs.github.io/2023/10/08/reading-list/</link>
+      <pubDate>Sat, 07 Oct 2023 16:00:00 GMT</pubDate>
+      <author>wangxuke.china@gmail.com (luminecs)</author>
+      <guid>http://luminecs.github.io/2023/10/08/reading-list</guid>
+      <description>&lt;h2&gt;2023-10-08&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to Dart&lt;/strong&gt;: &lt;a href=&quot;https://dart.dev/language&quot;&gt;https://dart.dev/language&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
 
     <item>
       <title>Flutter &#38; Dart Cheatsheet</title>

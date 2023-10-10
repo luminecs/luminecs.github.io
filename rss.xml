@@ -6,9 +6,37 @@
     <atom:link href="http://luminecs.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>Programming, life, etc.</description>
     <language>en-us</language>
-    <pubDate>Sun, 08 Oct 2023 12:47:07 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Oct 2023 12:47:07 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 00:05:55 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2023 00:05:55 GMT</lastBuildDate>
 
+
+    <item>
+      <title>Dart concept hooks</title>
+      <link>http://luminecs.github.io/2023/10/10/dart-concept-hooks/</link>
+      <pubDate>Mon, 09 Oct 2023 16:00:00 GMT</pubDate>
+      <author>wangxuke.china@gmail.com (luminecs)</author>
+      <guid>http://luminecs.github.io/2023/10/10/dart-concept-hooks</guid>
+      <description>&lt;h2&gt;main function&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#:~:text=Every%20app%20requires%20the%20top%2Dlevel%20main()%20function%2C%20where%20execution%20starts.%20Functions%20that%20don%E2%80%99t%20explicitly%20return%20a%20value%20have%20the%20void%20return%20type.&quot;&gt;https://dart.dev/language#hello-world&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Variables&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#:~:text=Even%20in%20type%2Dsafe%20Dart%20code%2C%20you%20can%20declare%20most%20variables%20without%20explicitly%20specifying%20their%20type%20using%20var.%20Thanks%20to%20type%20inference%2C%20these%20variables%E2%80%99%20types%20are%20determined%20by%20their%20initial%20values&quot;&gt;https://dart.dev/language#variables&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Control flow&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#control-flow-statements&quot;&gt;https://dart.dev/language#control-flow-statements&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Functions&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#functions:~:text=We%20recommend%20specifying%20the%20types%20of%20each%20function%E2%80%99s%20arguments%20and%20return%20value%3A&quot;&gt;https://dart.dev/language#functions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;anonymous functions (arrow syntax)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#functions:~:text=A%20shorthand%20%3D%3E%20(arrow)%20syntax%20is%20handy%20for%20functions%20that%20contain%20a%20single%20statement.%20This%20syntax%20is%20especially%20useful%20when%20passing%20anonymous%20functions%20as%20arguments%3A&quot;&gt;https://dart.dev/language#functions&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
 
     <item>
       <title>Reading Log</title>

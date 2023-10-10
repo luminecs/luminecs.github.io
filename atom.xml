@@ -4,13 +4,44 @@
   <title>luminecs.github.io</title>
   <link href="http://luminecs.github.io/"/>
   <link type="application/atom+xml" rel="self" href="http://luminecs.github.io/atom.xml"/>
-  <updated>2023-10-08T12:47:07.202307Z</updated>
+  <updated>2023-10-10T00:05:55.512808Z</updated>
   <id>http://luminecs.github.io/</id>
   <author>
     <name>luminecs</name>
     <email>wangxuke.china@gmail.com</email>
   </author>
 
+
+  <entry>
+    <id>http://luminecs.github.io/2023/10/10/dart-concept-hooks</id>
+    <link type="text/html" rel="alternate" href="http://luminecs.github.io/2023/10/10/dart-concept-hooks/"/>
+    <title>Dart concept hooks</title>
+    <published>2023-10-09T16:00:00.000Z</published>
+    <updated>2023-10-09T16:00:00.000Z</updated>
+    <author>
+      <name>luminecs</name>
+      <uri>http://luminecs.github.io/</uri>
+    </author>
+    <content type="html">&lt;h2&gt;main function&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#:~:text=Every%20app%20requires%20the%20top%2Dlevel%20main()%20function%2C%20where%20execution%20starts.%20Functions%20that%20don%E2%80%99t%20explicitly%20return%20a%20value%20have%20the%20void%20return%20type.&quot;&gt;https://dart.dev/language#hello-world&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Variables&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#:~:text=Even%20in%20type%2Dsafe%20Dart%20code%2C%20you%20can%20declare%20most%20variables%20without%20explicitly%20specifying%20their%20type%20using%20var.%20Thanks%20to%20type%20inference%2C%20these%20variables%E2%80%99%20types%20are%20determined%20by%20their%20initial%20values&quot;&gt;https://dart.dev/language#variables&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Control flow&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#control-flow-statements&quot;&gt;https://dart.dev/language#control-flow-statements&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Functions&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#functions:~:text=We%20recommend%20specifying%20the%20types%20of%20each%20function%E2%80%99s%20arguments%20and%20return%20value%3A&quot;&gt;https://dart.dev/language#functions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;anonymous functions (arrow syntax)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dart.dev/language#functions:~:text=A%20shorthand%20%3D%3E%20(arrow)%20syntax%20is%20handy%20for%20functions%20that%20contain%20a%20single%20statement.%20This%20syntax%20is%20especially%20useful%20when%20passing%20anonymous%20functions%20as%20arguments%3A&quot;&gt;https://dart.dev/language#functions&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 
   <entry>
     <id>http://luminecs.github.io/2023/10/08/reading-list</id>
